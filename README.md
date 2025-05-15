@@ -11,7 +11,7 @@
 
 <p> Right now, I’m crafting voice assistants, debugging tools, and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.</p>
 
-<p> Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected superpower that somehow gets things done. It’s the perfect mix of late-night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.</p>
+<p> Procrastination is my cardio, panic is my fuel, and hyperfocus is the</p><p> unexpected superpower that somehow gets things done. It’s the perfect mix of late-night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.</p>
 
 <p> I didn’t get here by memorizing textbooks like a photocopier. Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.</p>
 
