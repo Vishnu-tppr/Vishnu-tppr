@@ -13,7 +13,7 @@ I’m Vishnu—a first-year CSE student who can’t stop tinkering with code ⚙
 
  Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected superpower that somehow gets things done. It’s the perfect mix of late-night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.
 
- I didn’t get here by memorizing textbooks like a photocopier. Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.
+Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it clicks—eventually 🤯.
 
 Currently I’m diving headfirst into AI/ML in Python… anything that looks like it might break my brain in a fun way. I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing—one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.
 
