@@ -16,7 +16,8 @@ It’s the perfect mix of late night coding,last-minute cramming, selective effo
 Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it click eventually 🤯.
 
 Currently, I’m diving into AI/ML with Python 🐍, working on projects that challenge me to think differently and grow 🚀. 
-I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.
+
+I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing 🌙📚.
 
 ---
 
