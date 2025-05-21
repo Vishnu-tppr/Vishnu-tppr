@@ -9,13 +9,14 @@ I’m Vishnu a first-year CSE student who can’t stop tinkering with code ⚙�
 
 🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
 
- Right now, I’m crafting voice assistants, ai video background remover, and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.
+Right now, I’m crafting voice assistants, ai video background remover, and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.
 
- Procrastination is my cardio, panic is my fuel, and hyperfocus is the unexpected superpower that somehow gets things done. It’s the perfect mix of late night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.
+It’s the perfect mix of late night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.
 
 Rote learning? Overrated.I believe if you understand something well enough the first time, it sticks. If it doesn’t, I stare at it until it click eventually 🤯.
 
-Currently I’m diving headfirst into AI/ML in Python… anything that looks like it might break my brain in a fun way. I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.
+Currently, I’m diving into AI/ML with Python 🐍, working on projects that challenge me to think differently and grow 🚀. 
+I’m that guy who starts a “small” project and ends up awake at 2 AM convincing himself it’s the next big thing one YouTube tutorial, one Stack Overflow thread at a time 🌙📚.
 
 ---
 
