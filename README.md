@@ -82,6 +82,7 @@ My GitHub isn’t just a repo of code; it’s a peek into my journey—mistakes,
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishnu-v-31583b327/)
+- 📑 [Portfolio](https://vishnu-tppr.github.io/Portfolio/)
 - 🧠 [SkillRack](http://www.skillrack.com/profile/504581/fad72b7f91422b6163e1ef0c32831992d1390cbf)
 - 💻 [GitHub](https://github.com/Vishnu-tppr)
 - 📧 [vishnu.tppr@gmail.com](mailto:vishnu.tppr@gmail.com)
