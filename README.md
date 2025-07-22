@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" align="down"> Hey! I’m Vishnu – Let’s build something cool together.
 
-🎓 First-year CSE | 👾 Building useful stuff nobody asked for yet | ⚙️ Passionate Code Tinkerer | 🌟 Turning Ideas into Reality
+🎓 Second-year CSE | 👾 Building useful stuff nobody asked for yet | ⚙️ Passionate Code Tinkerer | 🌟 Turning Ideas into Reality
 
 ---
 [<img align="right" alt="Chill gif" src="https://github.com/Vishnu-tppr/Vishnu-cse/blob/main/LOFI%20BOY.gif?raw=true" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
 
-I’m Vishnu a first-year CSE student who loves turning ideas into code ⚙️❤️.</p>
+I’m Vishnu a second-year CSE student who loves turning ideas into code ⚙️❤️.</p>
 
 🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
 
