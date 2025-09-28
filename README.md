@@ -9,7 +9,7 @@ I’m Vishnu a second-year CSE student who loves turning ideas into code ⚙️�
 
 🏅 Rank 1 and Topper in Semester 1? Yeah, that happened. But honestly, the real fun begins when I step beyond grades and start building things way ahead of schedule .
 
-Right now, I’m crafting voice assistants, ai video background remover, and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.
+Right now, I’m crafting voice assistants, ai video background remover, developing Terax AI and automation scripts just for the thrill of it (and sometimes out of pure curiosity) 👨🏻‍💻✨.
 
 It’s the perfect mix of late night coding,last-minute cramming, selective effort, and a whole lot of “please let this work” 😅💪.
 
@@ -25,6 +25,7 @@ I’m that guy who starts a “small” project and ends up awake at 2 AM convin
 
 - 🤖 AI/ML using Python
 - 🛠️ Automation & Tool-building
+- ✨ Flutter 
 - 🧠 Real-world Logic-Based Problem Solving
 - 🎙️ Voice Processing
 - 🧪 Prompt Engineering
