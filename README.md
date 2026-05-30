@@ -69,7 +69,8 @@ I learn by breaking things in production. Not ideal. Genuinely effective.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishnu-tppr&label=Profile%20Views&color=blueviolet&style=flat" height="25"/>
 </p>
----
+
+
 ## Find me
 
 <p align="left">
