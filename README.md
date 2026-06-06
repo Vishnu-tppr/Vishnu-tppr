@@ -2,7 +2,7 @@
 
 [<img align="right" alt="Chill gif" src="https://github.com/Vishnu-tppr/Vishnu-cse/blob/main/LOFI%20BOY.gif?raw=true" width="360" height="190" />](https://github.com/Vishnu-tppr?tab=repositories)
 
-Second-year CSE. Frontend Lead at CrewPlay. Co-founder of Terax AI.
+Third-year CSE. Frontend Lead at CrewPlay. Co-founder of Terax AI.
 
 I care a lot more about shipping than my GPA (though I did top with Rank 1 in my sem).
 
